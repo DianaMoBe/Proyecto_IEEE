@@ -21,14 +21,14 @@
 This repository includes all scripts, datasets, and instructions required to reproduce the computational results presented in the manuscript, based on Artificial Neural
 Networks and Multiple Linear Regression models for the estimation of mechanical properties from the chemical composition of cast aluminum alloys.
 
-| Data |  Description |
-|--------|-------------|
-| `Entradas.xlsx` | Input chemical composition dataset for ANN |
-| `Salidas.xlsx` | Target mechanical properties for supervised learning |
-| `BD_RLM.xlsx` | Manually curated dataset for MLR model |
-| `BD_resultados.xlsx` | Comparison of ANN, MLR, and target values |
-| `BD_validacion.xlsx` | Published experimental data for model validation |
-| `BD_resultados_validacion.xlsx`	| ANN and MLR estimations vs experimental benchmarks | 
+| Data | Related Figure(s) or Table(s) | Description |
+|--------|-------------|-------------|
+| `Entradas.xlsx` | -- | Input chemical composition dataset for ANN |
+| `Salidas.xlsx` | -- | Target mechanical properties for supervised learning |
+| `BD_RLM.xlsx` | -- | Manually curated dataset for MLR model |
+| `BD_resultados.xlsx` | Tabla III and Fig. (6-8) | Comparison of ANN, MLR, and target values |
+| `BD_validacion.xlsx` | -- | Published experimental data for model validation |
+| `BD_resultados_validacion.xlsx` | Tabla V and Tabla VII | ANN and MLR estimations vs experimental benchmarks | 
 
 ---
 
