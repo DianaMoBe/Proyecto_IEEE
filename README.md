@@ -2,7 +2,7 @@
 
 **Manuscript ID:** IEEE LATAM **Submission ID:** 9682
 
-**Autors:**
+**Authors:**
 
 - Diana Guadalupe Molina Bermúdez
 - José Antonio Vázquez López
@@ -59,8 +59,6 @@ Networks and Multiple Linear Regression models for the estimation of mechanical 
 
 	ANN, MLR vs data real (`BD_resultados.xlsx`)
 	External validation (`BD_resultados_validacion.xlsx`)
-
-6. Result visualization stored in `graficas` folder
 
 ---
 
